@@ -1,0 +1,21 @@
+/* MAIN */
+.main {
+  text-align: center;
+}
+
+.summary {
+  width: 90%;
+  margin: 0 auto;
+  padding: 100px 20px;
+}
+
+.summary h1 {
+  text-align: left;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+.summary-wrap {
+  padding: 10px 10px;
+  margin: 20px 0px;
+}
