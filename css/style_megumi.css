@@ -7,3 +7,16 @@
 section {
   margin: 40px 0;
 }
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.example {
+  margin-top: 40px;
+}
