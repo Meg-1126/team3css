@@ -34,7 +34,7 @@
 
 .summary-name {
   font-weight: 700;
-  /* border-style: none; */
+  border-style: none;
   border-right-style: dotted;
   border-color:#5c585c;
   border-width: 5px;
