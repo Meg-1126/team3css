@@ -1,64 +1,155 @@
-.hello {
-    border-style: goove;
-    display: inline-block;
-    background-color: gray;
+/* main style */
+
+.tomoyuki {
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
-.hello1 {
-    margin: 16px;
-    background-color: orange;
-    color: white;
+
+/* fonts style */
+
+.fonts_h2 {
+    border-bottom: solid 3px #000000;
 }
 
-.hello2 {
-    margin-left: 32px;
-    margin-right: 32px;
-    background-color: green;
-    color: white;
+.fonts_upper1 {
+    padding: 30px 0px 30px 0px;
 }
 
-.hello3 {
-    margin-top: 32px;
-    margin-bottom: 32px;
-    background-color: black;
-    color: white;
+.fonts_h3 {
+    padding: 20px 0px 20px 0px;
+    font-size: 25px;
 }
 
-.hello4 {
-    margin-block-start: 64px;
-    margin-block-end: 64px;
-    background-color: blue;
-    color: white;
+.fonts_bottom_p {
+    padding-bottom: 20px;
 }
 
-.hello5 {
-    margin-inline-start: 64px;
-    margin-inline-end: 64px;
-    background-color: red;
-    color: white;
-}
-
-.email {
+.fonts_image {
+    width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    padding: 5%;
 }
 
-.email_icon {
-    width: 40px;
-    height: 32px;
-    align-items: center;
+.fi1 {
+    width: 50%;
+    height: auto;
 }
 
-.emaili {
-    width: 40px;
-    height: 32px;
+.fi2 {
+    width: 50%;
+    height: auto;
 }
 
-.email_p {
-    width: 90%;
+
+/* border style */
+
+.border_h2 {
+    padding-top: 40px;
+    border-bottom: solid 3px #000000;
 }
 
-.emailp {
-    font-size: 32px;
-    margin: 0%;
+.border_upper_p {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+.border_h3 {
+    padding: 20px 0px 20px 0px;
+    font-size: 25px;
+}
+
+.border_bottom_p {
+    padding-bottom: 20px;
+}
+
+.border_image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
+
+.b1 {
+    width: 50%;
+    height: auto;
+}
+
+.b2 {
+    width: 50%;
+    height: auto;
+}
+
+
+/* margin style */
+
+.margin h2 {
+    padding-top: 40px;
+    border-bottom: solid 3px #000000;
+}
+
+.margin_upper_p {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+.margin_image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 7%;
+}
+
+.m1 {
+    width: 50%;
+    height: auto;
+}
+
+.m2 {
+    width: 50%;
+    height: auto;
+}
+
+
+/* padding style */
+
+.padding h2 {
+    padding-top: 40px;
+    border-bottom: solid 3px #000000;
+}
+
+.padding_upper_p {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+.padding_list {
+    margin-bottom: 30px;
+}
+
+.padding_image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 7%;
+}
+
+.p1 {
+    width: 50%;
+    height: auto;
+}
+
+.p2 {
+    width: 50%;
+    height: auto;
+}
+
+.padding_hello {
+    margin-top: 30px;
+    display: inline-block;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
 }
