@@ -17,6 +17,10 @@ h3 {
   text-decoration: underline;
 }
 
+ul {
+  margin: 30px 0;
+}
+
 .example {
   margin-top: 40px;
 }
