@@ -10,6 +10,16 @@ section {
 
 h3 {
     font-style: italic;
+    padding-top: 15px;
+}
+
+p {
+    padding-top: 15px;
+}
+
+.ul-example {
+    list-style-type: circle;   
+    margin-left: 30px; 
 }
 
 .container-outline-style {
@@ -22,11 +32,13 @@ h3 {
 
 .container-outline-width {
     background-color: #add8e6;
-    outline-color: red;
+    outline-color: pink;
     outline-width: 30px;
     outline-style: outset;
     height: 100px;
     width: 200px;
+    margin: 20px;
+    margin-top: 30px;
 }
 
 .container-outline-color {
@@ -54,6 +66,26 @@ h3 {
     background: conic-gradient(red, yellow, blue, orange);
     height: 100px;
     width: 200px;
+}
+
+.list-style-type-thumbs {
+    list-style-type: "\1F44D";
+    margin-left: 30px;
+}
+
+.list-style-type-decimal {
+    list-style-type: decimal;
+    margin-left: 30px;
+}
+
+.list-style-type-lower-roman {
+    list-style-type: lower-roman;
+    margin-left: 30px;
+}
+
+.list-style-type-katakana {
+    list-style-type: katakana;
+    margin-left: 30px;
 }
 
 .container-text-decoration-line {
