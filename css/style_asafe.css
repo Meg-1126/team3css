@@ -1,0 +1,17 @@
+.example-box {
+    border: 5px double black; 
+}
+
+.container {
+    padding: 100px 20px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.tag {
+    color: #008;
+}
+
+section {
+    margin: 40px 0; 
+}
