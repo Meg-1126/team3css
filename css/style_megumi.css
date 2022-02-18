@@ -21,6 +21,14 @@ ul {
   margin: 30px 0;
 }
 
+hr {
+  width: 20%;
+  margin-top: 50px;
+  border-style: none;
+  border-bottom: double;
+  border-width: 5px;
+}
+
 .example {
   margin-top: 40px;
 }
